@@ -1,9 +1,20 @@
-<ul>
+<section>
+
+	<ol class="spring_2015">
 		<li>Custard</li>
 		<li>Tangerine</li>
 		<li>Marsala</li>
 		<li>Lucite Green</li>
 		<li>Aquamarine</li>
 		<li>Strawberry Ice</li>
-</ul>
+	</ol>
+	
+	<ol class="fall_2015">
+		<li>Oak Bluff</li>
+		<li>Stormy Weather</li>
+		<li>Reflecting Pond</li>
+	</ol>
+
+</section>
+	
 				
